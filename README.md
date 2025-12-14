@@ -1,4 +1,4 @@
-# JayTees Professional Portfolio — Web Version
+# Timothy Quainoo — Professional Portfolio (Web)
 
 This is a single-page web portfolio that mirrors the Professional Portfolio Artifact template.
 
